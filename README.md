@@ -8,6 +8,9 @@ Combinar React y .NET te permite aprovechar las fortalezas de ambas tecnologías
 La comunicación entre React y el servidor .NET generalmente se realiza a través de solicitudes HTTP, donde React envía solicitudes al servidor para realizar acciones como obtener datos, crear, actualizar o eliminar registros, y el servidor responde con los resultados correspondientes.
 
 Navegador (Cliente): Interfaz de usuario donde los usuarios interactúan con la aplicación a través de un navegador web. 
+
 React (Componentes UI): Biblioteca de JavaScript para crear la interfaz de usuario en el navegador. Los componentes de React generan la interfaz y responden a las acciones del usuario. 
-Servidor .NET (API): Actúa como intermediario entre el cliente y la base de datos. Ofrece una API REST para gestionar solicitudes HTTP desde React. 
+
+Servidor .NET (API): Actúa como intermediario entre el cliente y la base de datos. Ofrece una API REST para gestionar solicitudes HTTP desde React.
+
 Base de Datos: Almacena y gestiona los datos de la aplicación. El servidor .NET realiza operaciones de lectura y escritura en la base de datos según las solicitudes del cliente.
